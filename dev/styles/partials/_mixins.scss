@@ -1,5 +1,15 @@
-@mixin buttonStyles {
+@mixin heading {
+	font-family: $primaryFont;
+	font-weight: $medium;
+	font-size: 60px;
 }
+
+@mixin subhead {
+	font-family: $primaryFont;
+	font-weight: $normal;
+	font-size: 36px;
+}
+
 
 // media breakpoints
 

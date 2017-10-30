@@ -1,2 +1,19 @@
+@import 'partials/setup';
+@import 'partials/mixins';
+@import 'partials/variables';
+
+header {
+	width: 100vw;
+	height: 820px;
+	background-color: pink;
+}
+
+.wrapper {
+	width: 75vw;
+	max-width: 1200px;
+	margin: 0 auto;
+	background-color: thistle;
+}
+
 
 
